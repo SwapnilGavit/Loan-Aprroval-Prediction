@@ -44,7 +44,7 @@ pip install imblearn
    - Accuracy: **87.20%**
    - Cross-Validation: **82.52%**
    - Training Score: **81.94%** 
-#### **📖Please go through [Determinne_Status_of_Loan_HLD.docx](https://github.com/SwapnilGavit/Loan-Aprroval-Prediction/files/6700667/Determinne_Status_of_Loan_HLD.docx) for more info.**
+#### **📖Please go through [Determine_Status_of_Loan_HLD.pdf](https://github.com/SwapnilGavit/Loan-Aprroval-Prediction/blob/main/Documents/Determinne_Status_of_Loan_HLD.pdf) for more info.**
 
 
 ## **📄 License**
