@@ -42,8 +42,7 @@ pip install imblearn
  ##  **📊 Model**
  - #### Gradient Boost Classifier
    - Accuracy: **87.20%**
-   - Cross-Validation: **82.52%**
-   - Training Score: **81.94%** 
+   - Cross-Validation: **84.06%** 
 #### **📖Please go through [Determine_Status_of_Loan_HLD.pdf](https://github.com/SwapnilGavit/Loan-Aprroval-Prediction/blob/main/Documents/Determine_Status_of_Loan_HLD.pdf) for more info.**
 
 
